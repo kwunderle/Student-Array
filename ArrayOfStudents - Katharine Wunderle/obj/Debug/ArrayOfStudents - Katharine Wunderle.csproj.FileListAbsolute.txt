@@ -1,0 +1,10 @@
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 12\ArraysA - Katharine Wunderle\ArrayOfStudents - Katharine Wunderle\bin\Debug\ArrayOfStudents - Katharine Wunderle.exe.config
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 12\ArraysA - Katharine Wunderle\ArrayOfStudents - Katharine Wunderle\bin\Debug\ArrayOfStudents - Katharine Wunderle.exe
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 12\ArraysA - Katharine Wunderle\ArrayOfStudents - Katharine Wunderle\bin\Debug\ArrayOfStudents - Katharine Wunderle.pdb
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 12\ArraysA - Katharine Wunderle\ArrayOfStudents - Katharine Wunderle\obj\Debug\ArrayOfStudents - Katharine Wunderle.csprojAssemblyReference.cache
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 12\ArraysA - Katharine Wunderle\ArrayOfStudents - Katharine Wunderle\obj\Debug\ArrayOfStudents___Katharine_Wunderle.studentNameArray.resources
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 12\ArraysA - Katharine Wunderle\ArrayOfStudents - Katharine Wunderle\obj\Debug\ArrayOfStudents___Katharine_Wunderle.Properties.Resources.resources
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 12\ArraysA - Katharine Wunderle\ArrayOfStudents - Katharine Wunderle\obj\Debug\ArrayOfStudents - Katharine Wunderle.csproj.GenerateResource.cache
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 12\ArraysA - Katharine Wunderle\ArrayOfStudents - Katharine Wunderle\obj\Debug\ArrayOfStudents - Katharine Wunderle.csproj.CoreCompileInputs.cache
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 12\ArraysA - Katharine Wunderle\ArrayOfStudents - Katharine Wunderle\obj\Debug\ArrayOfStudents - Katharine Wunderle.exe
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 12\ArraysA - Katharine Wunderle\ArrayOfStudents - Katharine Wunderle\obj\Debug\ArrayOfStudents - Katharine Wunderle.pdb
